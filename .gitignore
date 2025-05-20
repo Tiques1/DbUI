@@ -3,3 +3,4 @@ venv/
 *.laccdb
 build/
 dist/
+*.spec
